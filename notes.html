@@ -3,8 +3,9 @@ layout: default
 title: Notes
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
+
+<div class="posts"> 
+  {% for post in site.posts %}
   <div class="post">
     <h1 class="post-title">
       <a href="{{ post.url }}">
@@ -17,7 +18,8 @@ title: Notes
     {{ post.content }}
   </div>
   {% endfor %}
-</div>
+ </div> 
+
 
 <div class="pagination">
   {% if paginator.next_page %}

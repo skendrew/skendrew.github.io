@@ -16,7 +16,6 @@ author:
   name:           'Sarah Kendrew'
   url:            https://twitter.com/sarahkendrew
 
-paginate:         5
 
 # Where things are
 source:             .

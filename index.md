@@ -8,7 +8,7 @@ I have a PhD in Physics from [University College London](http://www.ucl.ac.uk/st
 
 For more details, [here's my CV (pdf)](./files/kendrew_cv_web.pdf). 
 
-Looking for my blog? I retired it in mid-2015. If you're looking for any particular content, email me. A more minimal new blog is [here](/notes/)
+Looking for my blog? I retired it in mid-2015. If you're looking for any particular content, [email me](/contact/). A more minimal new blog is [here](/notes/).
 
 This page was created using [Github Pages](https://pages.github.com/), [Jekyll](http://jekyllrb.com/) and [Hyde](https://github.com/poole/hyde).  
 
