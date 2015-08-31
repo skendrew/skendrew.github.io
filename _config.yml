@@ -19,8 +19,8 @@ author:
 paginate:         5
 
 # Where things are
-#source:             .
-#layouts:            /_layouts
+source:             .
+layouts:            /_layouts
 
 # Custom vars
 version:          2.1.0
