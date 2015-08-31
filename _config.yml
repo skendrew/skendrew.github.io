@@ -21,6 +21,7 @@ paginate:         5
 # Where things are
 source:             .
 layouts:            /_layouts
+posts:              /_posts
 
 # Custom vars
 version:          2.1.0
