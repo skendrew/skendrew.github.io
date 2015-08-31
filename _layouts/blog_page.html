@@ -20,7 +20,7 @@ title: Notes
 </div>
 
 <div class="pagination">
-  <!--{% if paginator.next_page %}
+  {% if paginator.next_page %}
     <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
   {% else %}
     <span class="pagination-item older">Older</span>
@@ -33,5 +33,5 @@ title: Notes
     {% endif %}
   {% else %}
     <span class="pagination-item newer">Newer</span>
-  {% endif %} -->
+  {% endif %}
 </div>
