@@ -3,6 +3,8 @@ layout: default
 title: Notes
 ---
 
+Token text
+
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
