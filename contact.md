@@ -13,6 +13,6 @@ Keble Road
 Oxford OX1 3RH   
 United Kingdom
 
-sarah.kendrew AT astro.ox.ac.uk
+sarah.kendrew AT physics.ox.ac.uk
 
 [Twitter](http://www.twitter.com/sarahkendrew) - [GitHub](http://www.github.com/skendrew)
