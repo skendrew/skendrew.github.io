@@ -15,6 +15,6 @@ The [Zooniverse](http://www.zooniverse.org) group, based in Oxford and Chicago a
 
 ## Public talks, Outreach and Media
 
-I've given many public talks about my all aspects of my work to a variety of audiences, and invariably enjoy these events. I write about astronomy and research [online](http://sarahaskew.net), some of my writing has appeared in [The Guardian](http://www.guardian.co.uk), and I've appeared on tv and radio to talk about my work and interests. 
+I've given many public talks about my all aspects of my work to a variety of audiences, and invariably enjoy these events. I write about astronomy and research online, some of my writing has appeared in [The Guardian](http://www.guardian.co.uk), and I've appeared on tv and radio to talk about my work and interests. 
 
 If you'd like me to give a talk about any of the projects I work on, or on any of the science & society issues I care about, please [get in touch](/contact/). You don't have to pay me a fee (though I won't turn one down), but if there's travel involved I'd appreciate you covering that expense.
