@@ -7,7 +7,7 @@ Here's a few things I've been involved with.
 
 ## Astronomy Hack Days and .Astronomy
 
-The [.Astronomy](http://www.dotastronomy.com) conferences, led by Oxford astronomer and TED Fellow [Dr. Rob Simpson](http://www.twitter.com/orbitingfrog), bring together scientists and educators to share ideas and collaborate on innovative computing projects for astronomy to leverage the immense potential of modern computers and the web. Over the years .Astronomy has created a growing community of astronomers who think and work creatively on new ways of exploiting the web for science. I organised the 2009 and 2012 instalments of .Astronomy, and in 2014 I hosted a [software hack day](http://arxiv.org/abs/1408.1278) at the [SPIE](http://www.spie.org) conference on Astronomical Telescopes & Instrumentation in Montreal.
+The [.Astronomy](http://www.dotastronomy.com) conferences, led for 7 years by Oxford astronomer and TED Fellow [Dr. Rob Simpson](http://www.twitter.com/orbitingfrog) (now at Google), bring together scientists and educators to share ideas and collaborate on innovative computing projects for astronomy to leverage the immense potential of modern computers and the web. Over the years .Astronomy has created a growing community of astronomers who think and work creatively on new ways of exploiting the web for science, and as part of the conference we organised the first astronomy-themed hack days. I organised the 2009 and 2012 instalments of .Astronomy. In 2014 I hosted a [software hack day](http://arxiv.org/abs/1408.1278) at the [SPIE](http://www.spie.org) conference on Astronomical Telescopes & Instrumentation in Montreal; I'll be helping to organise a similar event at the 2016 SPIE conference in Edinburgh.
 
 ## Citizen Science
 
