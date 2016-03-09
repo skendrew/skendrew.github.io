@@ -5,14 +5,13 @@ title: Contact
 
 Drop me a line!
 
-Sarah Kendrew   
-Oxford University   
-Department of Physics   
-Denys Wilkinson Building   
-Keble Road     
-Oxford OX1 3RH   
-United Kingdom
+Sarah Kendrew<br> 
+European Space Agency<br>
+Space Telescope Science Institute<br>
+3700 San Martin Drive<br>
+Baltimore MD 21218<br>
+United States of America<br>
 
-sarah.kendrew AT physics.ox.ac.uk
+sarah.kendrew AT esa.int
 
 [Twitter](http://www.twitter.com/sarahkendrew) - [GitHub](http://www.github.com/skendrew)
